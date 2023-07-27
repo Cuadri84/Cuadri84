@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is David, i´m a junior developer fromm Spain.
+My name is David, i´m a junior developer from MAdrid(Spain).
   *  Focused in the MERN stack but also with plenty experience with Dart and Flutter.
   *  Good  team worker, with people skills, very proactive and always eager to learn and great ability to adapt.
 
