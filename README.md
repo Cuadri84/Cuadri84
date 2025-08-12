@@ -2,7 +2,7 @@
 
 I'm **David Cuadrillero**, a Full Stack Developer from Madrid, Spain 🇪🇸  
 
-💻 **Specialized in the MERN stack** and with strong experience in **Flutter** for mobile app development.  
+💻 **Specialized in the MERN and MEAN stacks** and with strong experience in **Flutter** for mobile app development.  
 🤝 **Team player** with excellent people skills, proactive mindset, adaptability, and a constant hunger for learning.  
 
 ---
@@ -28,6 +28,7 @@ I'm **David Cuadrillero**, a Full Stack Developer from Madrid, Spain 🇪🇸
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Quasar](https://img.shields.io/badge/Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white)  
@@ -48,12 +49,6 @@ I'm **David Cuadrillero**, a Full Stack Developer from Madrid, Spain 🇪🇸
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-
----
-
-## 📈 GitHub Stats
-![](https://github-contributor-stats.vercel.app/api?username=Cuadri84&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuadri84&layout=compact&theme=tokyonight)  
 
 ---
 
